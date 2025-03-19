@@ -11,11 +11,11 @@ const About = () => {
       <section className="max-w-5xl mx-auto px-0">
         <div className="p-6">
           <div className="flex flex-col lg:flex-row items-start mb-8">
-            <img 
-              src="https://via.placeholder.com/500" 
-              alt="Yubik Clothing Store" 
-              className="w-full lg:w-1/2 rounded-lg shadow-lg mb-4 lg:mb-0"
-            />
+              <img 
+                src="https://via.placeholder.com/500" 
+                alt="Yubik Clothing Store" 
+                className="w-full lg:w-1/2 rounded-lg shadow-lg mb-4 lg:mb-0"
+              />
             <div className="lg:ml-8">
               <h2 className="text-2xl font-semibold text-gray-800 mb-4">Our Story</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
